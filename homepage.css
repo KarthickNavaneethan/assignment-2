@@ -1,0 +1,43 @@
+.imageContainer{
+
+  background: url('Karthick.jpg');
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 1px solid gray;
+    
+}
+#logo{
+    text-align: center;
+    color: red;
+    font-size: 90px;
+    background-color: white;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    margin: auto;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+#heading{
+    text-align: center;
+    color: white;
+    font-size: 36px;
+}
+.locationSelector{
+    text-align: center;
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+.dropdown{
+    height: 50px;
+    width: 200px;
+    font-size: 20px;
+}
+.face{
+    color:#ffffff;text-decoration: none;
+}
+.social_logo{
+    height: 50px;
+    width: 50px;
+}
